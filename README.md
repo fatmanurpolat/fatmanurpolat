@@ -32,6 +32,7 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/fatmanurpolat/fatmanurpolat/output/snake.svg" alt="Snake animation" />
 
 ###
 
