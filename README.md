@@ -15,7 +15,7 @@
 
 - 🤖 I’m an early-career **AI Engineer** focused on computer vision and applied AI.
 
-- 📱 I’m currently working as a **Junior Mobile Application Developer**.
+- 📱 I’m currently working as a **Mobile Application Developer**.
 
 - 🎓 I completed a master’s thesis on automated road-surface anomaly detection using **YOLOv8**, achieving **90.1% mAP**.
 
