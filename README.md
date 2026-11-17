@@ -1,232 +1,172 @@
-<h1 align="center">Hi 👋, I'm Fatmanur Polat</h1>
+<div align="center">
 
-<h3 align="center">
-  AI Engineer · Computer Vision & Applied AI · Mobile Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fatmanur%20Polat&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Mobile%20Developer&descSize=18&descAlignY=55&descAlign=50" />
 
-<p align="center">
-  I build machine learning systems, AI-assisted software products,
-  and cross-platform mobile applications.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=AI+Engineer+focused+on+Computer+Vision+%F0%9F%A4%96;YOLOv8+%7C+PyTorch+%7C+Flutter+Developer+%F0%9F%9A%80;Building+Intelligent+Production+Systems+%F0%9F%94%AC;AI-Assisted+Development+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
----
+<br/>
 
-### 👩‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=fatmanurpolat&color=6C63FF&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/fatmanurpolat?label=Followers&style=for-the-badge&color=6C63FF)](https://github.com/fatmanurpolat)
 
-- 🤖 I’m an early-career **AI Engineer** focused on computer vision and applied AI.
-
-- 📱 I’m currently working as a **Mobile Application Developer**.
-
-- 🎓 I completed a master’s thesis on automated road-surface anomaly detection using **YOLOv8**, achieving **90.1% mAP**.
-
-- 🚀 I have delivered a production link-management and analytics platform for a startup using AI-assisted development workflows.
-
-- 🧠 I use **Claude** and **Codex** for architecture, implementation, debugging, testing, and rapid iteration.
-
-- 🌱 I’m strengthening my skills in production AI systems, model deployment, backend development, and MLOps.
-
-- 💬 Ask me about **Computer Vision, YOLOv8, PyTorch, Flutter, and AI-Assisted Development**.
-
-- 📫 Reach me at **fatmannurpolat@gmail.com**.
+</div>
 
 ---
 
-### 🔬 Featured Projects
+## 👩‍💻 About Me
 
-#### RoadSense — Automated Road Surface Anomaly Detection
+I'm an early-career **AI Engineer** specializing in Computer Vision and Applied AI, with hands-on experience delivering production-ready systems. I build intelligent ML pipelines, AI-powered software products, and cross-platform mobile applications.
 
-- Developed a YOLOv8-based system for detecting potholes, cracks, and other road-surface anomalies.
-- Achieved **90.1% mAP** during my master’s thesis.
-- Optimized the model for real-time inference on resource-constrained edge devices.
-- Built the complete training and evaluation pipeline using Python, PyTorch, Ultralytics, and Google Colab.
+| | |
+|---|---|
+| 🎓 **M.Sc. Thesis** | Automated Road Surface Anomaly Detection · YOLOv8 · **90.1% mAP** |
+| 🚀 **Production** | Link management & analytics platform · Fastify · TypeScript · PostgreSQL · Redis · Docker |
+| 📱 **Currently** | Mobile Application Developer · Flutter · Dart |
+| 🧠 **AI Tools** | Claude · Codex · AI-Assisted Architecture & Rapid Iteration |
+| 🌱 **Growing into** | MLOps · Model Deployment · Backend Systems · Edge AI |
 
-#### Confidential Startup Project — Link Management & Analytics Platform
-
-- Transformed a company-provided product concept into a production-ready application.
-- Implemented URL shortening, in-app browser detection, redirect handling, magic-link authentication, analytics, private and expiring links, REST APIs, and rate limiting.
-- Worked with Fastify, TypeScript, PostgreSQL, Redis, Docker, Claude, and Codex.
-- The company and product name are withheld to respect confidentiality.
-
-#### Middle Earth — Full-Stack Web Application
-
-- Designed, developed, and deployed a full-stack themed web application.
-- Built with Next.js, React, Node.js, and AI-assisted development workflows.
-- 🌐 [View the live project](https://fatmanur.xyz)
+> 💬 **Ask me about:** Computer Vision · YOLOv8 · PyTorch · Flutter · AI-Assisted Development
 
 ---
 
-### 🤝 Connect with Me
+## 🔬 Featured Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/polatfatmanur/?skipRedirect=true" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Fatmanur Polat on LinkedIn"
-      height="30"
-      width="40"
-    />
-  </a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <a href="https://medium.com/@polatfatmanur" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="Fatmanur Polat on Medium"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
+### 🛣️ RoadSense
+**Automated Road Surface Anomaly Detection**
+
+> Master's Thesis — Achieving **90.1% mAP**
+
+- YOLOv8-based detection of potholes, cracks & anomalies
+- Optimized for **real-time inference** on edge devices
+- End-to-end training & evaluation pipeline
+
+**Stack:** `Python` `PyTorch` `Ultralytics` `Google Colab`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Link Management Platform *(Confidential)*
+**Production-Ready Startup Application**
+
+> Delivered a full production platform from concept to deployment
+
+- URL shortening, in-app browser detection, magic-link auth
+- Analytics dashboard, private/expiring links, REST APIs
+- Rate limiting, Redis caching, Docker containerization
+
+**Stack:** `Fastify` `TypeScript` `PostgreSQL` `Redis` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Middle Earth
+**Full-Stack Themed Web Application**
+
+- Designed, developed and deployed end-to-end
+- AI-assisted development workflow
+
+**Stack:** `Next.js` `React` `Node.js`
+
+[🌐 View Live Project](https://github.com/fatmanurpolat/middle-earth)
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile Apps (Flutter)
+**Cross-Platform Development**
+
+- Production-grade mobile applications
+- Clean architecture, state management
+- Play Store ready builds
+
+**Stack:** `Flutter` `Dart` `REST APIs`
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 🛠️ Tech Stack
 
 ### 🧠 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=525252)
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="Python"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-      alt="PyTorch"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-**Machine Learning:** Deep Learning, Computer Vision, Object Detection, YOLOv8, Model Training, Model Evaluation, Edge Deployment
-
-**Applied AI:** Claude, Codex, AI-Assisted Development, Prompt and Context Management, Token Usage, Context-Window Awareness, API Rate-Limit Handling
-
----
-
-### 💻 Software & Full-Stack Development
-
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="TypeScript"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="Node.js"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="React"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"
-      alt="Next.js"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="PostgreSQL"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="Docker"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
----
+### 💻 Full-Stack Development
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="Flutter"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="Dart"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="Firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
 ---
 
-### 🛠️ Tools
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="Git"
-      width="40"
-      height="40"
-    />
-  </a>
+<div align="center">
 
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="Postman"
-      width="40"
-      height="40"
-    />
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatmanurpolat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmanurpolat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"
-      alt="Jira"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fatmanurpolat&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fatmanurpolat&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatmanurpolat)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatmannurpolat@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatmanurpolat)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building intelligent systems, one model at a time."* 🤖
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
+</div>
