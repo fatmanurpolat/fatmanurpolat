@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fatmanur%20Polat&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Mobile%20Developer&descSize=18&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fatmanur%20Polat&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Mobile%20Engineer%20%7C%20Flutter%20%26%20Dart%20Developer&descSize=18&descAlignY=55&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=AI+Engineer+focused+on+Computer+Vision+%F0%9F%A4%96;YOLOv8+%7C+PyTorch+%7C+Flutter+Developer+%F0%9F%9A%80;Building+Intelligent+Production+Systems+%F0%9F%94%AC;AI-Assisted+Development+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Mobile+Engineer+%C2%B7+Flutter+%26+Dart+%F0%9F%93%B1;Cross-Platform+App+Developer+%F0%9F%9A%80;Building+Production-Grade+Mobile+Apps+%F0%9F%94%AC;Clean+Architecture+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ## 👩‍💻 About Me
 
-I'm an early-career **AI Engineer** specializing in Computer Vision and Applied AI, with hands-on experience delivering production-ready systems. I build intelligent ML pipelines, AI-powered software products, and cross-platform mobile applications.
+I'm a **Mobile Engineer** specializing in cross-platform development with Flutter & Dart, with hands-on experience delivering production-ready applications. I build clean, scalable mobile apps and full-stack products.
 
 | | |
 |---|---|
@@ -25,7 +25,7 @@ I'm an early-career **AI Engineer** specializing in Computer Vision and Applied 
 | 🧠 **AI Tools** | Claude · Codex · AI-Assisted Architecture & Rapid Iteration |
 | 🌱 **Growing into** | MLOps · Model Deployment · Backend Systems · Edge AI |
 
-> 💬 **Ask me about:** Computer Vision · YOLOv8 · PyTorch · Flutter · AI-Assisted Development
+> 💬 **Ask me about:** Flutter · Dart · Mobile Architecture · Cross-Platform Development
 
 ---
 
@@ -40,7 +40,7 @@ I'm an early-career **AI Engineer** specializing in Computer Vision and Applied 
 
 > Master's Thesis — Achieving **90.1% mAP**
 
-- YOLOv8-based detection of potholes, cracks & anomalies
+- YOLOv8-based detection of potholes, cracks & road anomalies
 - Optimized for **real-time inference** on edge devices
 - End-to-end training & evaluation pipeline
 
@@ -165,7 +165,7 @@ I'm an early-career **AI Engineer** specializing in Computer Vision and Applied 
 
 <div align="center">
 
-*"Building intelligent systems, one model at a time."* 🤖
+*"Building great apps, one screen at a time."* 📱
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
