@@ -1,8 +1,9 @@
+[README.md](https://github.com/user-attachments/files/34945190/README.md)
 <div align="center">
 
 <img src="./header.svg" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=680&lines=Mobile+Engineer+%C2%B7+Flutter+%26+Dart;Cross-Platform+App+Developer;Building+Production-Grade+Mobile+Apps;Clean+Architecture+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=680&lines=Full-Stack+%26+Mobile+Developer;Flutter+%7C+TypeScript+%7C+Node.js;Building+Production-Grade+Apps;AI-Augmented+Development)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,17 +16,18 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Mobile Engineer** specializing in cross-platform development with Flutter & Dart, with hands-on experience delivering production-ready applications. I build clean, scalable mobile apps and full-stack products.
+I'm a **Full-Stack & Mobile Developer** who builds end-to-end production systems — from cross-platform mobile apps to backend APIs, databases, and DevOps pipelines. I leverage AI tools to ship faster and better across the entire stack.
 
 | | |
 |---|---|
 | 🎓 **M.Sc. Thesis** | Automated Road Surface Anomaly Detection · YOLOv8 · **90.1% mAP** |
 | 🚀 **Production** | Link management & analytics platform · Fastify · TypeScript · PostgreSQL · Redis · Docker |
-| 📱 **Currently** | Mobile Application Developer · Flutter · Dart |
-| 🧠 **AI Tools** | Claude · Codex · AI-Assisted Architecture & Rapid Iteration |
-| 🌱 **Growing into** | MLOps · Model Deployment · Backend Systems · Edge AI |
+| 📱 **Mobile** | Flutter · Dart · Cross-Platform · Production Apps |
+| 💻 **Full-Stack** | TypeScript · Next.js · Node.js · Fastify · PostgreSQL · Redis · Docker |
+| 🧠 **AI-Augmented** | Claude · Codex · AI-Assisted Architecture & 10× Delivery Speed |
+| 🔬 **ML/CV** | YOLOv8 · PyTorch · Edge Inference · 90.1% mAP on Road Anomaly Detection |
 
-> 💬 **Ask me about:** Flutter · Dart · Mobile Architecture · Cross-Platform Development
+> 💬 **Ask me about:** Flutter · Full-Stack Architecture · AI-Assisted Development · Shipping Production Apps
 
 ---
 
@@ -165,7 +167,7 @@ I'm a **Mobile Engineer** specializing in cross-platform development with Flutte
 
 <div align="center">
 
-*"Building great apps, one screen at a time."* 📱
+*"Full-stack. Mobile. AI-augmented. Shipping end-to-end."* 🚀
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
