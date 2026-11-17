@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Fatmanur%20Polat&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Mobile%20Engineer%20%7C%20Flutter%20%7C%20Dart%20Developer&descSize=18&descAlignY=55&descAlign=50" />
+<img src="./header.svg" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Mobile+Engineer+%C2%B7+Flutter+%26+Dart+%F0%9F%93%B1;Cross-Platform+App+Developer+%F0%9F%9A%80;Building+Production-Grade+Mobile+Apps+%F0%9F%94%AC;Clean+Architecture+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=680&lines=Mobile+Engineer+%C2%B7+Flutter+%26+Dart;Cross-Platform+App+Developer;Building+Production-Grade+Mobile+Apps;Clean+Architecture+Enthusiast)](https://git.io/typing-svg)
 
 <br/>
 
